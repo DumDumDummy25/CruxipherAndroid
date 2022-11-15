@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1668452065759.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1668452069139.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/0.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/0_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/BU_foreground.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable-v24/EU.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/EU_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/EU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/XU_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/YU_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/a0.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/a0_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/a_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/au_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/bu_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_round.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.283" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.2" />
+        <entry key="app/src/main/res/mipmap-xhdpi/BU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/BU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/CU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/CU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/DU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/DU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/EU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/EU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/FU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/FU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/GU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/GU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/HU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/HU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/IU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/IU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/JU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/JU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/KU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/KU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/LU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/LU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/MU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/MU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/NU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/NU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/OU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/OU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/PU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/PU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/QU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/QU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/RU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/RU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/SU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/SU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/TU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/TU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/UU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/UU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/VU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/VU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/WU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/WU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/XU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/XU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/YU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/YU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/ZU.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/ZU_round.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/a0.xml" value="0.283" />
+        <entry key="app/src/main/res/mipmap-xhdpi/al.xml" value="0.283" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
